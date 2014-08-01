@@ -1,0 +1,211 @@
+alchemy,Alchemist,Action,$3◉
+alchemy,Apothecary,Action,$2◉
+alchemy,Apprentice,Action,$5
+alchemy,Familiar,Action – Attack,$3◉
+alchemy,Golem,Action,$4◉
+alchemy,Herbalist,Action,$2
+alchemy,Philosopher’s Stone,Treasure,$3◉
+alchemy,Possession,Action,$6◉
+alchemy,Potion,Treasure,$4
+alchemy,Scrying Pool,Action – Attack,$2◉
+alchemy,Transmute,Action,$0◉
+alchemy,University,Action,$2◉
+alchemy,Vineyard,Victory,$0◉
+cornucopia,Bag of Gold,Action – Prize,$0*
+cornucopia,Diadem,Treasure – Prize,$0*
+cornucopia,Fairgrounds,Victory,$6
+cornucopia,Farming Village,Action,$4
+cornucopia,Followers,Action – Attack – Prize,$0*
+cornucopia,Fortune Teller,Action – Attack,$3
+cornucopia,Hamlet,Action,$2
+cornucopia,Harvest,Action,$5
+cornucopia,Horn of Plenty,Treasure,$5
+cornucopia,Horse Traders,Action – Reaction,$4
+cornucopia,Hunting Party,Action,$5
+cornucopia,Jester,Action – Attack,$5
+cornucopia,Menagerie,Action,$3
+cornucopia,Princess,Action – Prize,$0*
+cornucopia,Remake,Action,$4
+cornucopia,Tournament,Action,$4
+cornucopia,Trusty Steed,Action – Prize,$0*
+cornucopia,Young Witch,Action – Attack,$4
+dark-ages,Altar,Action,$6
+dark-ages,Armory,Action,$4
+dark-ages,Band of Misfits,Action,$5
+dark-ages,Bandit Camp,Action,$5
+dark-ages,Beggar,Action – Reaction,$2
+dark-ages,Catacombs,Action,$5
+dark-ages,Count,Action,$5
+dark-ages,Counterfeit,Treasure,$5
+dark-ages,Cultist,Action – Attack – Looter,$5
+dark-ages,Death Cart,Action – Looter,$4
+dark-ages,Feodum,Victory,$4
+dark-ages,Forager,Action,$3
+dark-ages,Fortress,Action,$4
+dark-ages,Graverobber,Action,$5
+dark-ages,Hermit,Action,$3
+dark-ages,Hunting Grounds,Action,$6
+dark-ages,Ironmonger,Action,$4
+dark-ages,Junk Dealer,Action,$5
+dark-ages,Madman,Action,$0*
+dark-ages,Marauder,Action – Attack – Looter,$4
+dark-ages,Market Square,Action – Reaction,$3
+dark-ages,Mercenary,Action – Attack,$0*
+dark-ages,Mystic,Action,$5
+dark-ages,Pillage,Action – Attack,$5
+dark-ages,Poor House,Action,$1
+dark-ages,Procession,Action,$4
+dark-ages,Rats,Action,$4
+dark-ages,Rebuild,Action,$5
+dark-ages,Rogue,Action – Attack,$5
+dark-ages,Sage,Action,$3
+dark-ages,Scavenger,Action,$4
+dark-ages,Spoils,Treasure,$0*
+dark-ages,Squire,Action,$2
+dark-ages,Storeroom,Action,$3
+dark-ages,Urchin,Action – Attack,$3
+dark-ages,Vagrant,Action,$2
+dark-ages,Wandering Minstrel,Action,$4
+dominion,Adventurer,Action,$6
+dominion,Bureaucrat,Action – Attack,$4
+dominion,Cellar,Action,$2
+dominion,Chancellor,Action,$3
+dominion,Chapel,Action,$2
+dominion,Council Room,Action,$5
+dominion,Feast,Action,$4
+dominion,Festival,Action,$5
+dominion,Gardens,Victory,$4
+dominion,Laboratory,Action,$5
+dominion,Library,Action,$5
+dominion,Market,Action,$5
+dominion,Militia,Action – Attack,$4
+dominion,Mine,Action,$5
+dominion,Moat,Action – Reaction,$2
+dominion,Moneylender,Action,$4
+dominion,Remodel,Action,$4
+dominion,Smithy,Action,$4
+dominion,Spy,Action – Attack,$4
+dominion,Thief,Action – Attack,$4
+dominion,Throne Room,Action,$4
+dominion,Village,Action,$3
+dominion,Witch,Action – Attack,$5
+dominion,Woodcutter,Action,$3
+dominion,Workshop,Action,$3
+guilds,Advisor,Action,$4
+guilds,Baker,Action,$5
+guilds,Butcher,Action,$5
+guilds,Candlestick Maker,Action,$2
+guilds,Doctor,Action,$3+
+guilds,Herald,Action,$4+
+guilds,Journeyman,Action,$5
+guilds,Masterpiece,Treasure,$3+
+guilds,Merchant Guild,Action,$5
+guilds,Plaza,Action,$4
+guilds,Soothsayer,Action – Attack,$5
+guilds,Stonemason,Action,$2+
+guilds,Taxman,Action – Attack,$4
+hinterlands,Border Village,Action,$6
+hinterlands,Cache,Treasure,$5
+hinterlands,Cartographer,Action,$5
+hinterlands,Crossroads,Action,$2
+hinterlands,Develop,Action,$3
+hinterlands,Duchess,Action,$2
+hinterlands,Embassy,Action,$5
+hinterlands,Farmland,Victory,$6
+hinterlands,Fool’s Gold,Treasure – Reaction,$2
+hinterlands,Haggler,Action,$5
+hinterlands,Highway,Action,$5
+hinterlands,Ill-Gotten Gains,Treasure,$5
+hinterlands,Inn,Action,$5
+hinterlands,Jack of All Trades,Action,$4
+hinterlands,Mandarin,Action,$5
+hinterlands,Margrave,Action – Attack,$5
+hinterlands,Noble Brigand,Action – Attack,$4
+hinterlands,Nomad Camp,Action,$4
+hinterlands,Oasis,Action,$3
+hinterlands,Oracle,Action – Attack,$3
+hinterlands,Scheme,Action,$3
+hinterlands,Silk Road,Victory,$4
+hinterlands,Spice Merchant,Action,$4
+hinterlands,Stables,Action,$5
+hinterlands,Trader,Action – Reaction,$4
+hinterlands,Tunnel,Victory – Reaction,$3
+intrigue,Baron,Action,$4
+intrigue,Bridge,Action,$4
+intrigue,Conspirator,Action,$4
+intrigue,Coppersmith,Action,$4
+intrigue,Courtyard,Action,$2
+intrigue,Duke,Victory,$5
+intrigue,Great Hall,Action – Victory,$3
+intrigue,Harem,Treasure – Victory,$6
+intrigue,Ironworks,Action,$4
+intrigue,Masquerade,Action,$3
+intrigue,Mining Village,Action,$4
+intrigue,Minion,Action – Attack,$5
+intrigue,Nobles,Action – Victory,$6
+intrigue,Pawn,Action,$2
+intrigue,Saboteur,Action – Attack,$5
+intrigue,Scout,Action,$4
+intrigue,Secret Chamber,Action – Reaction,$2
+intrigue,Shanty Town,Action,$3
+intrigue,Steward,Action,$3
+intrigue,Swindler,Action – Attack,$3
+intrigue,Torturer,Action – Attack,$5
+intrigue,Trading Post,Action,$5
+intrigue,Tribute,Action,$5
+intrigue,Upgrade,Action,$5
+intrigue,Wishing Well,Action,$3
+prosperity,Bank,Treasure,$7
+prosperity,Bishop,Action,$4
+prosperity,City,Action,$5
+prosperity,Colony,Victory,$11
+prosperity,Contraband,Treasure,$5
+prosperity,Counting House,Action,$5
+prosperity,Expand,Action,$7
+prosperity,Forge,Action,$7
+prosperity,Goons,Action – Attack,$6
+prosperity,Grand Market,Action,$6
+prosperity,Hoard,Treasure,$6
+prosperity,King’s Court,Action,$7
+prosperity,Loan,Treasure,$3
+prosperity,Mint,Action,$5
+prosperity,Monument,Action,$4
+prosperity,Mountebank,Action – Attack,$5
+prosperity,Peddler,Action,$8*
+prosperity,Platinum,Treasure,$9
+prosperity,Quarry,Treasure,$4
+prosperity,Rabble,Action – Attack,$5
+prosperity,Royal Seal,Treasure,$5
+prosperity,Talisman,Treasure,$4
+prosperity,Trade Route,Action,$3
+prosperity,Vault,Action,$5
+prosperity,Venture,Treasure,$5
+prosperity,Watchtower,Action – Reaction,$3
+prosperity,Worker’s Village,Action,$4
+seaside,Ambassador (part II),Action – Attack,$3
+seaside,Bazaar,Action,$5
+seaside,Caravan,Action – Duration,$4
+seaside,Cutpurse,Action – Attack,$4
+seaside,Embargo,Action,$2
+seaside,Embargo,Action,$2
+seaside,Explorer,Action,$5
+seaside,Fishing Village,Action – Duration,$3
+seaside,Ghost Ship,Action – Attack,$5
+seaside,Haven,Action – Duration,$2
+seaside,Island,Action – Victory,$4
+seaside,Lighthouse,Action – Duration,$2
+seaside,Lookout,Action,$3
+seaside,Merchant Ship,Action – Duration,$5
+seaside,Native Village,Action,$2
+seaside,Navigator,Action,$4
+seaside,Outpost,Action – Duration,$5
+seaside,Pearl Diver,Action,$2
+seaside,Pirate Ship,Action – Attack,$4
+seaside,Salvager,Action,$4
+seaside,Sea Hag,Action – Attack,$4
+seaside,Smugglers,Action,$3
+seaside,Tactician,Action – Duration,$5
+seaside,Treasure Map,Action,$4
+seaside,Treasury,Action,$5
+seaside,Warehouse,Action,$3
+seaside,Wharf,Action – Duration,$5

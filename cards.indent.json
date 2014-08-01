@@ -1,0 +1,1479 @@
+[
+    {
+        "Cost": "$2",
+        "Deck": "dominion",
+        "Description": "+1 Action\nDiscard any number of cards.\n+1 Card per card discarded.",
+        "Title": "Cellar",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$2",
+        "Deck": "dominion",
+        "Description": "Trash up to 4 cards from your hand.",
+        "Title": "Chapel",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$2",
+        "Deck": "dominion",
+        "Description": "+2 Cards\nWhen another player plays an Attack card, you may reveal this from your hand. If you do, you are unaffected by that Attack.",
+        "Title": "Moat",
+        "Type": "Action \u2013 Reaction"
+    },
+    {
+        "Cost": "$3",
+        "Deck": "dominion",
+        "Description": "+$2\nYou may immediately put your deck into your discard pile.",
+        "Title": "Chancellor",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$3",
+        "Deck": "dominion",
+        "Description": "+1 Card; +2 Actions.",
+        "Title": "Village",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$3",
+        "Deck": "dominion",
+        "Description": "+1 Buy; +$2.",
+        "Title": "Woodcutter",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$3",
+        "Deck": "dominion",
+        "Description": "Gain a card costing up to $4.",
+        "Title": "Workshop",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$4",
+        "Deck": "dominion",
+        "Description": "Gain a silver card; put it on top of your deck. Each other player reveals a Victory card from his hand and puts it on his deck (or reveals a hand with no Victory cards).",
+        "Title": "Bureaucrat",
+        "Type": "Action \u2013 Attack"
+    },
+    {
+        "Cost": "$4",
+        "Deck": "dominion",
+        "Description": "Trash this card. Gain a card costing up to $5.",
+        "Title": "Feast",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$4",
+        "Deck": "dominion",
+        "Description": "Worth 1 Victory for every 10 cards in your deck (rounded down).",
+        "Title": "Gardens",
+        "Type": "Victory"
+    },
+    {
+        "Cost": "$4",
+        "Deck": "dominion",
+        "Description": "+$2\nEach other player discards down to 3 cards in his hand.",
+        "Title": "Militia",
+        "Type": "Action \u2013 Attack"
+    },
+    {
+        "Cost": "$4",
+        "Deck": "dominion",
+        "Description": "Trash a Copper from your hand. If you do, +$3.",
+        "Title": "Moneylender",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$4",
+        "Deck": "dominion",
+        "Description": "Trash a card from your hand. Gain a card costing up to $2 more than the trashed card.",
+        "Title": "Remodel",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$4",
+        "Deck": "dominion",
+        "Description": "+3 Cards.",
+        "Title": "Smithy",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$4",
+        "Deck": "dominion",
+        "Description": "+1 Card; +1 Action\nEach player (including you) reveals the top card of his deck and either discards it or puts it back, your choice.",
+        "Title": "Spy",
+        "Type": "Action \u2013 Attack"
+    },
+    {
+        "Cost": "$4",
+        "Deck": "dominion",
+        "Description": "Each other player reveals the top 2 cards of his deck. If they revealed any Treasure cards, they trash one of them that you choose. You may gain any or all of these trashed cards. They discard the other revealed cards.",
+        "Title": "Thief",
+        "Type": "Action \u2013 Attack"
+    },
+    {
+        "Cost": "$4",
+        "Deck": "dominion",
+        "Description": "Choose an Action card in your hand. Play it twice.",
+        "Title": "Throne Room",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$5",
+        "Deck": "dominion",
+        "Description": "+4 Cards; +1 Buy\nEach other player draws a card.",
+        "Title": "Council Room",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$5",
+        "Deck": "dominion",
+        "Description": "+2 Actions, +1 Buy; +$2.",
+        "Title": "Festival",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$5",
+        "Deck": "dominion",
+        "Description": "+2 Cards; +1 Action.",
+        "Title": "Laboratory",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$5",
+        "Deck": "dominion",
+        "Description": "Draw until you have 7 cards in hand. You may set aside any Action cards drawn this way, as you draw them; discard the set aside cards after you finish drawing.",
+        "Title": "Library",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$5",
+        "Deck": "dominion",
+        "Description": "+1 Card; +1 Action; +1 Buy; +$1.",
+        "Title": "Market",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$5",
+        "Deck": "dominion",
+        "Description": "Trash a Treasure card from your hand. Gain a Treasure card costing up to $3 more; put it into your hand.",
+        "Title": "Mine",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$5",
+        "Deck": "dominion",
+        "Description": "+2 Cards\nEach other player gains a Curse card.",
+        "Title": "Witch",
+        "Type": "Action \u2013 Attack"
+    },
+    {
+        "Cost": "$6",
+        "Deck": "dominion",
+        "Description": "Reveal cards from your deck until you reveal 2 Treasure cards. Put those Treasure cards in your hand and discard the other revealed cards.",
+        "Title": "Adventurer",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$2",
+        "Deck": "intrigue",
+        "Description": "+3 Cards\nPut a card from your hand on top of your deck.",
+        "Title": "Courtyard",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$2",
+        "Deck": "intrigue",
+        "Description": "Choose two: +1 Card; +1 Action; +1 Buy; +$1.\n(The choices must be different.)",
+        "Title": "Pawn",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$2",
+        "Deck": "intrigue",
+        "Description": "Discard any number of cards. +$1 per card discarded.\nWhen another player plays an Attack card, you may reveal this from your hand. If you do, +2 cards, then put 2 cards from your hand on top of your deck.",
+        "Title": "Secret Chamber",
+        "Type": "Action \u2013 Reaction"
+    },
+    {
+        "Cost": "$3",
+        "Deck": "intrigue",
+        "Description": "1 Victory Point\n+1 Card; +1 Action.",
+        "Title": "Great Hall",
+        "Type": "Action \u2013 Victory"
+    },
+    {
+        "Cost": "$3",
+        "Deck": "intrigue",
+        "Description": "+2 Cards\nEach player passes a card in their hand to the player on their left. You may trash a card from your hand.",
+        "Title": "Masquerade",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$3",
+        "Deck": "intrigue",
+        "Description": "+2 Actions\nReveal your hand.\u00a0 If you have no Action cards in hand, +2 Cards.",
+        "Title": "Shanty Town",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$3",
+        "Deck": "intrigue",
+        "Description": "Choose one: +2 Cards; or +$2; or trash 2 cards from your hand.",
+        "Title": "Steward",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$3",
+        "Deck": "intrigue",
+        "Description": "+$2\nEach other player trashes the top card of his deck and gains a card with the same cost that you choose.",
+        "Title": "Swindler",
+        "Type": "Action \u2013 Attack"
+    },
+    {
+        "Cost": "$3",
+        "Deck": "intrigue",
+        "Description": "+1 Card; +1 Action\nName a card, then reveal the top card of your deck. If it is the named card, put it in your hand.",
+        "Title": "Wishing Well",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$4",
+        "Deck": "intrigue",
+        "Description": "+1 Buy\nYou may discard an Estate card. If you do, +$4.\u00a0 Otherwise, gain an Estate card.",
+        "Title": "Baron",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$4",
+        "Deck": "intrigue",
+        "Description": "+1 Buy; +$1\nAll cards (including cards in players\u2019 hands) cost $1 less this turn, but not less than $0.",
+        "Title": "Bridge",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$4",
+        "Deck": "intrigue",
+        "Description": "+$2\nIf you\u2019ve played 3 or more Actions this turn (counting this): +1 Card; +1 Action.",
+        "Title": "Conspirator",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$4",
+        "Deck": "intrigue",
+        "Description": "Copper produces an extra $1 this turn.",
+        "Title": "Coppersmith",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$4",
+        "Deck": "intrigue",
+        "Description": "Gain a card costing up to $4. If it is an\u2026 Action card, +1 Action. Treasure card, +$1. Victory card, +1 Card.",
+        "Title": "Ironworks",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$4",
+        "Deck": "intrigue",
+        "Description": "+1 Card; +2 Actions\nYou may trash this card immediately. If you do, +$2.",
+        "Title": "Mining Village",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$4",
+        "Deck": "intrigue",
+        "Description": "+1 Action\nReveal the top 4 cards of your deck. Put the revealed Victory cards into your hand. Put the other cards on top of your deck in any order.",
+        "Title": "Scout",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$5",
+        "Deck": "intrigue",
+        "Description": "Worth 1 Victory Point per Duchy you have.",
+        "Title": "Duke",
+        "Type": "Victory"
+    },
+    {
+        "Cost": "$5",
+        "Deck": "intrigue",
+        "Description": "+1 Action\nChoose one: +$2; or discard your hand, +4 Cards, and each other player with at least 5 cards in hand discards his hand and draws 4 cards.",
+        "Title": "Minion",
+        "Type": "Action \u2013 Attack"
+    },
+    {
+        "Cost": "$5",
+        "Deck": "intrigue",
+        "Description": "Each other player reveals cards from the top of his deck until revealing one costing $3 or more. He trashes that card and may gain a card costing at most $2 less than it. He discards the other revealed cards.",
+        "Title": "Saboteur",
+        "Type": "Action \u2013 Attack"
+    },
+    {
+        "Cost": "$5",
+        "Deck": "intrigue",
+        "Description": "+3 Cards\nEach other player chooses one: he discards 2 cards; or he gains a Curse card, putting it in his hand.",
+        "Title": "Torturer",
+        "Type": "Action \u2013 Attack"
+    },
+    {
+        "Cost": "$5",
+        "Deck": "intrigue",
+        "Description": "Trash 2 cards from your hand. If you do, gain a silver card; put it into your hand.",
+        "Title": "Trading Post",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$5",
+        "Deck": "intrigue",
+        "Description": "The player to your left reveals then discards the top 2 cards of his deck. For each differently named card revealed, if it is an\u2026 Action Card; +2 Actions; Treasure Card; +$2; Victory Card; +2 Cards.",
+        "Title": "Tribute",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$5",
+        "Deck": "intrigue",
+        "Description": "+1 Card; +1 Action\nTrash a card from your hand. Gain a card costing exactly $1 more than it.",
+        "Title": "Upgrade",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$6",
+        "Deck": "intrigue",
+        "Description": "Worth $2\n2 Victory Points",
+        "Title": "Harem",
+        "Type": "Treasure \u2013 Victory"
+    },
+    {
+        "Cost": "$6",
+        "Deck": "intrigue",
+        "Description": "2 Victory Points\nChoose one: +3 Cards; or +2 Actions.",
+        "Title": "Nobles",
+        "Type": "Action \u2013 Victory"
+    },
+    {
+        "Cost": "$2",
+        "Deck": "seaside",
+        "Description": "+$2\nTrash this card. Put an Embargo token on top of a Supply pile.\nWhen a player buys a card, he gains a Curse card per Embargo token on that pile.",
+        "Title": "Embargo",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$2",
+        "Deck": "seaside",
+        "Description": "+1 Card; +1 Action\nSet aside a card from your hand face down. At the start of your next turn, put it into your hand.",
+        "Title": "Haven",
+        "Type": "Action \u2013 Duration"
+    },
+    {
+        "Cost": "$2",
+        "Deck": "seaside",
+        "Description": "+1 Action\nNow and at the start of your next turn: +$1.\nWhile this is in play, when another player plays an Attack card, it doesn\u2019t affect you.",
+        "Title": "Lighthouse",
+        "Type": "Action \u2013 Duration"
+    },
+    {
+        "Cost": "$2",
+        "Deck": "seaside",
+        "Description": "+2 Actions\nChoose one: Set aside the top card of your deck face down on your Native Village mat; or put all the cards from your mat into your hand.\u00a0 You may look at the cards on your mat at any time; return them to your deck at the end of the game.",
+        "Title": "Native Village",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$2",
+        "Deck": "seaside",
+        "Description": "+1 Card; +1 Action\nLook at the bottom card of your deck. You may put it on top.",
+        "Title": "Pearl Diver",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$3",
+        "Deck": "seaside",
+        "Description": "Reveal a card from your hand. Return up to 2 copies of it from your hand to the Supply. Then each other player gains a copy of it.",
+        "Title": "Ambassador (part II)",
+        "Type": "Action \u2013 Attack"
+    },
+    {
+        "Cost": "$3",
+        "Deck": "seaside",
+        "Description": "+2 Actions, +$1\nAt the start of your next turn: +1 Action; +$1.",
+        "Title": "Fishing Village",
+        "Type": "Action \u2013 Duration"
+    },
+    {
+        "Cost": "$3",
+        "Deck": "seaside",
+        "Description": "+1 Action\nLook at the top 3 cards of your deck. Trash one of them. Discard one of them. Put the other one on top of your deck.",
+        "Title": "Lookout",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$3",
+        "Deck": "seaside",
+        "Description": "Gain a copy of a card costing up to $6 that the player to your right gained on his last turn.",
+        "Title": "Smugglers",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$3",
+        "Deck": "seaside",
+        "Description": "+3 Cards; +1 Action\nDiscard 3 cards.",
+        "Title": "Warehouse",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$4",
+        "Deck": "seaside",
+        "Description": "+1 Card; +1 Action\nAt the start of your next turn, +1 Card.",
+        "Title": "Caravan",
+        "Type": "Action \u2013 Duration"
+    },
+    {
+        "Cost": "$4",
+        "Deck": "seaside",
+        "Description": "+$2\nEach other player discards a Copper card (or reveals a hand with no Copper).",
+        "Title": "Cutpurse",
+        "Type": "Action \u2013 Attack"
+    },
+    {
+        "Cost": "$4",
+        "Deck": "seaside",
+        "Description": "Set aside this and another card from your hand. Return them to your deck at the end of the game.\nWorth 2 Victory Points",
+        "Title": "Island",
+        "Type": "Action \u2013 Victory"
+    },
+    {
+        "Cost": "$4",
+        "Deck": "seaside",
+        "Description": "+$2\nLook at the top 5 cards of your deck. Either discard all of them, or put them back on top of your deck in any order.",
+        "Title": "Navigator",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$4",
+        "Deck": "seaside",
+        "Description": "Choose one: Each other player reveals the top 2 cards of his deck, trashes a revealed Treasure that you choose, discards the rest, and if anyone trashed a Treasure you take a Coin token; or, +$1 per Coin token you\u2019ve taken with Pirate Ships this game.",
+        "Title": "Pirate Ship",
+        "Type": "Action \u2013 Attack"
+    },
+    {
+        "Cost": "$4",
+        "Deck": "seaside",
+        "Description": "+1 Buy\nTrash a card from your hand. +$ equal to its cost.",
+        "Title": "Salvager",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$4",
+        "Deck": "seaside",
+        "Description": "Each other player discards the top card of his deck, then gains a Curse card, putting it on top of his deck.",
+        "Title": "Sea Hag",
+        "Type": "Action \u2013 Attack"
+    },
+    {
+        "Cost": "$4",
+        "Deck": "seaside",
+        "Description": "Trash this and another copy of Treasure Map from your hand. If you do trash two Treasure Maps, gain 4 Gold cards, putting them on top of your deck.",
+        "Title": "Treasure Map",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$5",
+        "Deck": "seaside",
+        "Description": "+1 Card; +2 Actions, +$1.",
+        "Title": "Bazaar",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$5",
+        "Deck": "seaside",
+        "Description": "You may reveal a Province card from your hand. If you do, gain a Gold card, putting it into your hand. Otherwise, gain a Silver card, putting it into your hand.",
+        "Title": "Explorer",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$5",
+        "Deck": "seaside",
+        "Description": "+2 Cards\nEach other player with 4 or more cards in hand puts cards from his hand on top of his deck until he has 3 cards in his hand.",
+        "Title": "Ghost Ship",
+        "Type": "Action \u2013 Attack"
+    },
+    {
+        "Cost": "$5",
+        "Deck": "seaside",
+        "Description": "Now and at the start of your next turn: +$2.",
+        "Title": "Merchant Ship",
+        "Type": "Action \u2013 Duration"
+    },
+    {
+        "Cost": "$5",
+        "Deck": "seaside",
+        "Description": "You only draw 3 cards (instead of 5) in this turn\u2019s Clean-up phase. Take an extra turn after this one. This can\u2019t cause you to take more than two consecutive turns.",
+        "Title": "Outpost",
+        "Type": "Action \u2013 Duration"
+    },
+    {
+        "Cost": "$5",
+        "Deck": "seaside",
+        "Description": "Discard your hand. If you discarded any cards this way, then at the start of your next turn, +5 Cards; +1 Buy; and +1 Action.",
+        "Title": "Tactician",
+        "Type": "Action \u2013 Duration"
+    },
+    {
+        "Cost": "$5",
+        "Deck": "seaside",
+        "Description": "+1 Card; +1 Action; +$1\nWhen you discard this from play, if you didn\u2019t buy a Victory card this turn, you may put this on top of your deck.",
+        "Title": "Treasury",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$5",
+        "Deck": "seaside",
+        "Description": "Now and at the start of your next turn: +2 Cards; +1 Buy.",
+        "Title": "Wharf",
+        "Type": "Action \u2013 Duration"
+    },
+    {
+        "Cost": "$2",
+        "Deck": "seaside",
+        "Description": "$2",
+        "Title": "Embargo",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$2",
+        "Deck": "alchemy",
+        "Description": "+1 Buy; +$1\nWhen you discard this from play, you may put one of your Treasures from play on top of your deck.",
+        "Title": "Herbalist",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$4",
+        "Deck": "alchemy",
+        "Description": "Worth 1\u25c9.",
+        "Title": "Potion",
+        "Type": "Treasure"
+    },
+    {
+        "Cost": "$5",
+        "Deck": "alchemy",
+        "Description": "+1 Action\nTrash a card from your hand.\u00a0 +1 Card per Coin it costs.\u00a0 +2 Cards if it has \u25c9 in its cost.",
+        "Title": "Apprentice",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$0\u25c9",
+        "Deck": "alchemy",
+        "Description": "Trash a card from your hand.\u00a0 If it is an\u2026\u00a0 Action card, gain a Duchy; Treasure card, gain a Transmute; Victory card, gain a Gold.",
+        "Title": "Transmute",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$0\u25c9",
+        "Deck": "alchemy",
+        "Description": "Worth 1 Victory Point for every 3 Action cards in your deck (rounded down).",
+        "Title": "Vineyard",
+        "Type": "Victory"
+    },
+    {
+        "Cost": "$2\u25c9",
+        "Deck": "alchemy",
+        "Description": "+1 Card; +1 Action\nReveal the top 4 cards of your deck. Put the revealed Coppers and Potions into your hand. Put the other cards back on top in any order.",
+        "Title": "Apothecary",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$2\u25c9",
+        "Deck": "alchemy",
+        "Description": "+1 Action\nEach player (including you) reveals the top card of his deck and either discards it or puts it back, your choice. Then reveal cards from the top of your deck until revealing one that isn\u2019t an Action.\u00a0 Put all of your revealed cards into your hand.",
+        "Title": "Scrying Pool",
+        "Type": "Action \u2013 Attack"
+    },
+    {
+        "Cost": "$2\u25c9",
+        "Deck": "alchemy",
+        "Description": "+2 Actions\nYou may gain an Action card costing up to $5.",
+        "Title": "University",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$3\u25c9",
+        "Deck": "alchemy",
+        "Description": "+2 Cards; +1 Action\nWhen you discard this from play, you may put this on top of your deck if you have a Potion in play.",
+        "Title": "Alchemist",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$3\u25c9",
+        "Deck": "alchemy",
+        "Description": "+1 Card; +1 Action\nEach other player gains a curse.",
+        "Title": "Familiar",
+        "Type": "Action \u2013 Attack"
+    },
+    {
+        "Cost": "$3\u25c9",
+        "Deck": "alchemy",
+        "Description": "When you play this, count your deck and discard pile.\u00a0 Worth $1 per 5 cards total between them (rounded down).",
+        "Title": "Philosopher\u2019s Stone",
+        "Type": "Treasure"
+    },
+    {
+        "Cost": "$4\u25c9",
+        "Deck": "alchemy",
+        "Description": "Reveal cards from your deck until you reveal 2 Action cards other than Golem Cards. Discard the other cards, then play the Action cards in either order.",
+        "Title": "Golem",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$6\u25c9",
+        "Deck": "alchemy",
+        "Description": "The player to your left takes an extra turn after this one, in which you can see all cards he can and make all decisions for him. Any cards he would gain on that turn, you gain instead; any cards of his that are trashed are set aside and returned to his discard pile at end of turn.",
+        "Title": "Possession",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$3",
+        "Deck": "prosperity",
+        "Description": "Worth $1\nWhen you play this, reveal cards from your deck until you reveal a Treasure. Discard it or trash it. Discard the other cards.",
+        "Title": "Loan",
+        "Type": "Treasure"
+    },
+    {
+        "Cost": "$3",
+        "Deck": "prosperity",
+        "Description": "+1 Buy; +$1 per token on the Trade Route mat.\nTrash a card from your hand.Setup: Put a token on each Victory card Supply pile. When a card is gained from that pile, move the token to the Trade Route mat.",
+        "Title": "Trade Route",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$3",
+        "Deck": "prosperity",
+        "Description": "Draw until you have 6 cards in hand.\nWhen you gain a card, you may reveal this from your hand. If you do, either trash that card, or put it on top of your deck.",
+        "Title": "Watchtower",
+        "Type": "Action \u2013 Reaction"
+    },
+    {
+        "Cost": "$4",
+        "Deck": "prosperity",
+        "Description": "+$1; +1 VP token\nTrash a card from your hand.\u00a0 +VP tokens equal to half its cost in coins, rounded down. Each other player may trash a card from his hand.",
+        "Title": "Bishop",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$4",
+        "Deck": "prosperity",
+        "Description": "+$2; +1 VP token.",
+        "Title": "Monument",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$4",
+        "Deck": "prosperity",
+        "Description": "Worth $1.\nWhile this is in play, Action cards cost $2 less, but not less than $0.",
+        "Title": "Quarry",
+        "Type": "Treasure"
+    },
+    {
+        "Cost": "$4",
+        "Deck": "prosperity",
+        "Description": "Worth $1.\nWhile this is in play, when you buy a card costing $4 or less that is not a Victory card, gain a copy of it.",
+        "Title": "Talisman",
+        "Type": "Treasure"
+    },
+    {
+        "Cost": "$4",
+        "Deck": "prosperity",
+        "Description": "+1 Card; +2 Actions, +1 Buy",
+        "Title": "Worker\u2019s Village",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$5",
+        "Deck": "prosperity",
+        "Description": "+1 Card; +2 Actions\nIf there are one or more empty Supply piles, +1 Card. If there are two or more, +$1 and +1 Buy.",
+        "Title": "City",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$5",
+        "Deck": "prosperity",
+        "Description": "Worth $3\n+1 Buy\nWhen you play this, the player to your left names a card. You can\u2019t buy that card this turn.",
+        "Title": "Contraband",
+        "Type": "Treasure"
+    },
+    {
+        "Cost": "$5",
+        "Deck": "prosperity",
+        "Description": "Look through your discard pile, reveal any number of Copper cards from it, and put them into your hand.",
+        "Title": "Counting House",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$5",
+        "Deck": "prosperity",
+        "Description": "You may reveal a Treasure card from your hand. Gain a copy of it.\nWhen you buy this, trash all Treasures you have in play.",
+        "Title": "Mint",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$5",
+        "Deck": "prosperity",
+        "Description": "+$2\nEach other player may discard a Curse. If he doesn\u2019t, he gains a Curse and a Copper.",
+        "Title": "Mountebank",
+        "Type": "Action \u2013 Attack"
+    },
+    {
+        "Cost": "$5",
+        "Deck": "prosperity",
+        "Description": "+3 Cards\nEach other player reveals the top 3 cards of his deck, discards the revealed Actions and Treasures, and puts the rest back on top in any order he chooses.",
+        "Title": "Rabble",
+        "Type": "Action \u2013 Attack"
+    },
+    {
+        "Cost": "$5",
+        "Deck": "prosperity",
+        "Description": "Worth $2\nWhile this is in play, when you gain a card, you may put that card on top of your deck.",
+        "Title": "Royal Seal",
+        "Type": "Treasure"
+    },
+    {
+        "Cost": "$5",
+        "Deck": "prosperity",
+        "Description": "+2 Cards\nDiscard any number of cards. +$1 per card discarded.\u00a0 Each other player may discard 2 cards. If he does, he draws a card.",
+        "Title": "Vault",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$5",
+        "Deck": "prosperity",
+        "Description": "Worth $1\nWhen you play this, reveal cards from your deck until you reveal a Treasure. Discard the other cards. Play that Treasure.",
+        "Title": "Venture",
+        "Type": "Treasure"
+    },
+    {
+        "Cost": "$6",
+        "Deck": "prosperity",
+        "Description": "+1 Buy; +$2\nEach other player discards down to 3 cards in hand.\nWhile this is in play, when you buy a card, +1 VP token.",
+        "Title": "Goons",
+        "Type": "Action \u2013 Attack"
+    },
+    {
+        "Cost": "$6",
+        "Deck": "prosperity",
+        "Description": "+1 Card; +1 Action; +1 Buy; +$2\nYou can\u2019t buy this if you have any Copper in play.",
+        "Title": "Grand Market",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$6",
+        "Deck": "prosperity",
+        "Description": "Worth $2.\nWhile this is in play, when you buy a Victory card, gain a Gold.",
+        "Title": "Hoard",
+        "Type": "Treasure"
+    },
+    {
+        "Cost": "$7",
+        "Deck": "prosperity",
+        "Description": "Worth $?\nWhen you play this, it\u2019s worth $1 per Treasure card you have in play (counting this).",
+        "Title": "Bank",
+        "Type": "Treasure"
+    },
+    {
+        "Cost": "$7",
+        "Deck": "prosperity",
+        "Description": "Trash a card from your hand. Gain a card costing up to $3 more than the trashed card.",
+        "Title": "Expand",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$7",
+        "Deck": "prosperity",
+        "Description": "Trash any number of cards from your hand. Gain a card with cost exactly equal to the total cost in coins of the trashed cards.",
+        "Title": "Forge",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$7",
+        "Deck": "prosperity",
+        "Description": "You may choose an Action card in your hand. Play it three times.",
+        "Title": "King\u2019s Court",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$8*",
+        "Deck": "prosperity",
+        "Description": "+1 Card; +1 Action; +$1\nDuring your Buy phase, this costs $2 less per Action card you have in play, but not less than $0.",
+        "Title": "Peddler",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$9",
+        "Deck": "prosperity",
+        "Description": "Worth $5",
+        "Title": "Platinum",
+        "Type": "Treasure"
+    },
+    {
+        "Cost": "$11",
+        "Deck": "prosperity",
+        "Description": "10 Victory Points",
+        "Title": "Colony",
+        "Type": "Victory"
+    },
+    {
+        "Cost": "$2",
+        "Deck": "cornucopia",
+        "Description": "+1 Card; +1 Action\nYou may discard a card; if you do, +1 Action.\nYou may discard a card; if you do, +1 Buy.",
+        "Title": "Hamlet",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$3",
+        "Deck": "cornucopia",
+        "Description": "+$2\nEach other player reveals cards from the top of his deck until he reveals a Victory or Curse card. He puts it on top and discards the other revealed cards.",
+        "Title": "Fortune Teller",
+        "Type": "Action \u2013 Attack"
+    },
+    {
+        "Cost": "$3",
+        "Deck": "cornucopia",
+        "Description": "+1 Action\nReveal your hand. If there are no duplicate cards in it, +3 Cards. Otherwise, +1 Card.",
+        "Title": "Menagerie",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$4",
+        "Deck": "cornucopia",
+        "Description": "+2 Actions\nReveal cards from the top of your deck until you reveal an Action or Treasure card. Put that card into your hand and discard the other cards.",
+        "Title": "Farming Village",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$4",
+        "Deck": "cornucopia",
+        "Description": "+1 Buy; +$3; Discard 2 cards.\nWhen another player plays an Attack card, you may set this aside from your hand. If you do, then at the start of your next turn, +1 Card and return this to your hand.",
+        "Title": "Horse Traders",
+        "Type": "Action \u2013 Reaction"
+    },
+    {
+        "Cost": "$4",
+        "Deck": "cornucopia",
+        "Description": "Do this twice: Trash a card from your hand; gain a card costing exactly $1 more than the trashed card.",
+        "Title": "Remake",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$4",
+        "Deck": "cornucopia",
+        "Description": "+1 Action\nEach player may reveal a Province from his hand.\nIf you do, discard it and gain a Prize (from the Prize pile) or a Duchy, putting it on top of your deck.\nIf no-one else does, +1 Card, +$1.",
+        "Title": "Tournament",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$4",
+        "Deck": "cornucopia",
+        "Description": "+2 Cards\nDiscard 2 cards. Each other player may reveal a Bane card from his hand. If he doesn\u2019t, he gains a Curse.Setup: Add an extra Kingdom card pile costing $2 or $3 to the Supply. Cards from that pile are Bane cards.",
+        "Title": "Young Witch",
+        "Type": "Action \u2013 Attack"
+    },
+    {
+        "Cost": "$5",
+        "Deck": "cornucopia",
+        "Description": "Reveal the top 4 cards of your deck, then discard them. +$1 per differently named card revealed.",
+        "Title": "Harvest",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$5",
+        "Deck": "cornucopia",
+        "Description": "Worth $0.\nWhen you play this, gain a card costing up to $1 per differently named card you have in play, counting this. If it\u2019s a Victory card, trash this.",
+        "Title": "Horn of Plenty",
+        "Type": "Treasure"
+    },
+    {
+        "Cost": "$5",
+        "Deck": "cornucopia",
+        "Description": "+1 Card; +1 Action.\nReveal your hand. Reveal cards from your deck until you reveal a card that isn\u2019t a duplicate of one in your hand. Put it into your hand and discard the rest.",
+        "Title": "Hunting Party",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$5",
+        "Deck": "cornucopia",
+        "Description": "+$2\nEach other player discards the top card of his deck. If it\u2019s a Victory card he gains a Curse. Otherwise either he gains a copy of the discarded card or you do, your choice.",
+        "Title": "Jester",
+        "Type": "Action \u2013 Attack"
+    },
+    {
+        "Cost": "$6",
+        "Deck": "cornucopia",
+        "Description": "Worth 2VP for every 5 differently named cards in your deck (round down).",
+        "Title": "Fairgrounds",
+        "Type": "Victory"
+    },
+    {
+        "Cost": "$0*",
+        "Deck": "cornucopia",
+        "Description": "+1 Action\nGain a Gold, putting it on top of your deck.",
+        "Title": "Bag of Gold",
+        "Type": "Action \u2013 Prize"
+    },
+    {
+        "Cost": "$0*",
+        "Deck": "cornucopia",
+        "Description": "Worth $2.\nWhen you play this, +$1 per unused Action you have (Action, not Action card).",
+        "Title": "Diadem",
+        "Type": "Treasure \u2013 Prize"
+    },
+    {
+        "Cost": "$0*",
+        "Deck": "cornucopia",
+        "Description": "+2 Cards\nGain an Estate. Each other player gains a Curse and discards down to 3 cards in hand.",
+        "Title": "Followers",
+        "Type": "Action \u2013 Attack \u2013 Prize"
+    },
+    {
+        "Cost": "$0*",
+        "Deck": "cornucopia",
+        "Description": "+1 Buy\nWhile this is in play, cards cost $2 less, but not less than $0.",
+        "Title": "Princess",
+        "Type": "Action \u2013 Prize"
+    },
+    {
+        "Cost": "$0*",
+        "Deck": "cornucopia",
+        "Description": "Choose two: +2 Cards; or +2 Actions; or +$2; or gain 4 Silvers and put your deck into your discard pile.",
+        "Title": "Trusty Steed",
+        "Type": "Action \u2013 Prize"
+    },
+    {
+        "Cost": "$2",
+        "Deck": "hinterlands",
+        "Description": "Reveal your hand.\n+1 Card per Victory card revealed. If this is the first time you played a Crossroads this turn, +3 Actions.",
+        "Title": "Crossroads",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$2",
+        "Deck": "hinterlands",
+        "Description": "+$2\nEach player (including you) looks at the top card of his deck, and discards it or puts it back.\n\u2014\nIn games using this, when you gain a Duchy, you may gain a Duchess.",
+        "Title": "Duchess",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$2",
+        "Deck": "hinterlands",
+        "Description": "If this is the first time you played a Fool\u2019s Gold this turn, this is worth $1, otherwise it\u2019s worth $4.\n\u2014\nWhen another player gains a Province, you may trash this from your hand. If you do, gain a Gold, putting it on your deck.",
+        "Title": "Fool\u2019s Gold",
+        "Type": "Treasure \u2013 Reaction"
+    },
+    {
+        "Cost": "$3",
+        "Deck": "hinterlands",
+        "Description": "Trash a card from your hand. Gain a card costing exactly $1 more than it and a card costing exactly $1 less than it, in either order, putting them on top of your deck.",
+        "Title": "Develop",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$3",
+        "Deck": "hinterlands",
+        "Description": "+1 Card; +1 Action; +$1\nDiscard a card.",
+        "Title": "Oasis",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$3",
+        "Deck": "hinterlands",
+        "Description": "Each player (including you) reveals the top 2 cards of his deck, and you choose one: either he discards them, or he puts them back on top in an order he chooses.\n+2 Cards",
+        "Title": "Oracle",
+        "Type": "Action \u2013 Attack"
+    },
+    {
+        "Cost": "$3",
+        "Deck": "hinterlands",
+        "Description": "+1 Card; +1 Action\nAt the start of Clean-up this turn, you may choose an Action card you have in play. If you discard it from play this turn, put it on your deck.",
+        "Title": "Scheme",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$3",
+        "Deck": "hinterlands",
+        "Description": "2 Victory Points\n\u2014\nWhen you discard this other than during a Clean-up phase, you may reveal it. If you do, gain a Gold.",
+        "Title": "Tunnel",
+        "Type": "Victory \u2013 Reaction"
+    },
+    {
+        "Cost": "$4",
+        "Deck": "hinterlands",
+        "Description": "Gain a Silver.\nLook at the top card of your deck; discard it or put it back.\nDraw until you have 5 cards in hand.\nYou may trash a card from your hand that is not a Treasure.",
+        "Title": "Jack of All Trades",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$4",
+        "Deck": "hinterlands",
+        "Description": "+$1\nWhen you buy this or play it, each other player reveals the top 2 cards of his deck, trashes a revealed Silver or Gold you choose, and discards the rest. If he didn\u2019t reveal a Treasure, he gains a Copper. You gain the trashed cards.",
+        "Title": "Noble Brigand",
+        "Type": "Action \u2013 Attack"
+    },
+    {
+        "Cost": "$4",
+        "Deck": "hinterlands",
+        "Description": "+1 Buy; +$2\n\u2014\nWhen you gain this, put it on top of your deck.",
+        "Title": "Nomad Camp",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$4",
+        "Deck": "hinterlands",
+        "Description": "Worth 1 Victory Point for every 4 Victory cards in your deck (round down).",
+        "Title": "Silk Road",
+        "Type": "Victory"
+    },
+    {
+        "Cost": "$4",
+        "Deck": "hinterlands",
+        "Description": "You may trash a Treasure from your hand. If you do, choose one:\n+2 Cards and +1 Action;\nor +$2 and +1 Buy.",
+        "Title": "Spice Merchant",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$4",
+        "Deck": "hinterlands",
+        "Description": "Trash a card from your hand. Gain a number of Silvers equal to its cost in coins.\n\u2014\nWhen you would gain a card, you may reveal this from your hand. If you do, instead, gain a silver.",
+        "Title": "Trader",
+        "Type": "Action \u2013 Reaction"
+    },
+    {
+        "Cost": "$5",
+        "Deck": "hinterlands",
+        "Description": "Worth $3\n\u2014\nWhen you gain this, gain two Coppers.",
+        "Title": "Cache",
+        "Type": "Treasure"
+    },
+    {
+        "Cost": "$5",
+        "Deck": "hinterlands",
+        "Description": "+1 Card; +1 Action\nLook at the top 4 cards of your deck. Discard any number of them. Put the rest back on top in any order.",
+        "Title": "Cartographer",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$5",
+        "Deck": "hinterlands",
+        "Description": "+5 Cards\nDiscard 3 cards.\n\u2014\nWhen you gain this, each other player gains a Silver.",
+        "Title": "Embassy",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$5",
+        "Deck": "hinterlands",
+        "Description": "+$2\n\u2014\nWhile this is in play, when you buy a card, gain a card costing less than it that is not a Victory card.",
+        "Title": "Haggler",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$5",
+        "Deck": "hinterlands",
+        "Description": "+1 Card; +1 Action\n\u2014\nWhile this is in play, cards cost $1 less, but not less than $0.",
+        "Title": "Highway",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$5",
+        "Deck": "hinterlands",
+        "Description": "Worth $1\nWhen you play this, you may gain a Copper, putting it into your hand.\n\u2014\nWhen you gain this, each other player gains a Curse.",
+        "Title": "Ill-Gotten Gains",
+        "Type": "Treasure"
+    },
+    {
+        "Cost": "$5",
+        "Deck": "hinterlands",
+        "Description": "+2 Cards; +2 Actions\nDiscard 2 cards.\n\u2014\nWhen you gain this, look through your discard pile (including this), reveal any number of Action cards from it, and shuffle them into your deck.",
+        "Title": "Inn",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$5",
+        "Deck": "hinterlands",
+        "Description": "+$3\nPut a card from your hand on top of your deck.\n\u2014\nWhen you gain this, put all Treasures you have in play on top of your deck in any order.",
+        "Title": "Mandarin",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$5",
+        "Deck": "hinterlands",
+        "Description": "+3 Cards; +1 Buy\nEach other player draws a card, then discards down to 3 cards in hand.",
+        "Title": "Margrave",
+        "Type": "Action \u2013 Attack"
+    },
+    {
+        "Cost": "$5",
+        "Deck": "hinterlands",
+        "Description": "You may discard a Treasure. If you do, +3 Cards and +1 Action.",
+        "Title": "Stables",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$6",
+        "Deck": "hinterlands",
+        "Description": "+1 Card; +2 Actions\n\u2014\nWhen you gain this, gain a card costing less than this.",
+        "Title": "Border Village",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$6",
+        "Deck": "hinterlands",
+        "Description": "2 VP\n\u2014\nWhen you buy this, trash a card from your hand. Gain a card costing exactly $2 more than the trashed card.",
+        "Title": "Farmland",
+        "Type": "Victory"
+    },
+    {
+        "Cost": "$0*",
+        "Deck": "dark-ages",
+        "Description": "+2 Actions\nReturn this to the Madman pile. If you do, +1 Card per card in your hand.\n(This is not in the Supply.)",
+        "Title": "Madman",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$0*",
+        "Deck": "dark-ages",
+        "Description": "You may trash 2 cards from your hand. If you do, +2 Cards, + $2, and each other player discards down to 3 cards in hand.\n(This is not in the Supply.)",
+        "Title": "Mercenary",
+        "Type": "Action \u2013 Attack"
+    },
+    {
+        "Cost": "$0*",
+        "Deck": "dark-ages",
+        "Description": "$3\nWhen you play this, return it to the pile.",
+        "Title": "Spoils",
+        "Type": "Treasure"
+    },
+    {
+        "Cost": "$1",
+        "Deck": "dark-ages",
+        "Description": "+$4\nReveal your hand. -$1 per Treasure card in your hand, to a minimum of $0.",
+        "Title": "Poor House",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$2",
+        "Deck": "dark-ages",
+        "Description": "Gain 3 Coppers, putting them into your hand.\n___\nWhen another player plays an Attack card, you may discard this. If you do, gain two Silvers, putting one on top of your deck.",
+        "Title": "Beggar",
+        "Type": "Action \u2013 Reaction"
+    },
+    {
+        "Cost": "$2",
+        "Deck": "dark-ages",
+        "Description": "+$1\nChoose one: +2 Actions; or +2 Buys; or gain a Silver.\n___\nWhen you trash this, gain an Attack card.",
+        "Title": "Squire",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$2",
+        "Deck": "dark-ages",
+        "Description": "+1 Card; +1 Action\nReveal the top card of your deck. If it\u2019s a Victory card, Curse, Ruins, or Shelter, put it into your hand.",
+        "Title": "Vagrant",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$3",
+        "Deck": "dark-ages",
+        "Description": "+1 Action; +1 Buy\nTrash a card from your hand. +$1 per differently named Treasure in the trash.",
+        "Title": "Forager",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$3",
+        "Deck": "dark-ages",
+        "Description": "Look through your discard pile. You may trash a card that is not a Treasure, from your discard pile or your hand. Gain a card costing up to $3.\n___\nWhen you discard this from play, if you didn\u2019t buy any cards this turn, trash this and gain a Madman (from the Madman pile).",
+        "Title": "Hermit",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$3",
+        "Deck": "dark-ages",
+        "Description": "+1 Card; +1 Action; +1 Buy\n___\nWhen one of your cards is trashed, you may discard this from your hand. If you do, gain a Gold.",
+        "Title": "Market Square",
+        "Type": "Action \u2013 Reaction"
+    },
+    {
+        "Cost": "$3",
+        "Deck": "dark-ages",
+        "Description": "+1 Action\nReveal cards from the top of your deck until you reveal one costing $3 or more. Put that card into your hand and discard the rest.",
+        "Title": "Sage",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$3",
+        "Deck": "dark-ages",
+        "Description": "+1 Buy\nDiscard any number of cards. +1 Card per card discarded. Discard any number of cards. +$1 per card discarded the second time.",
+        "Title": "Storeroom",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$3",
+        "Deck": "dark-ages",
+        "Description": "+1 Card; +1 Action\nEach other player discards down to 4 cards in hand.\n___\nWhen you play another Attack card with this in play, you may trash this. If you do, gain a Mercenary from the Mercenary pile.",
+        "Title": "Urchin",
+        "Type": "Action \u2013 Attack"
+    },
+    {
+        "Cost": "$4",
+        "Deck": "dark-ages",
+        "Description": "Gain a card costing up to $4. Put it on top of your deck.",
+        "Title": "Armory",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$4",
+        "Deck": "dark-ages",
+        "Description": "+$5\nYou may trash an Action card from your hand. If you don\u2019t, trash this.\n___\nWhen you gain this, gain two Ruins.",
+        "Title": "Death Cart",
+        "Type": "Action \u2013 Looter"
+    },
+    {
+        "Cost": "$4",
+        "Deck": "dark-ages",
+        "Description": "Worth 1 VP for every 3 Silvers in your deck.\n___\nWhen you trash this, gain 3 Silvers.",
+        "Title": "Feodum",
+        "Type": "Victory"
+    },
+    {
+        "Cost": "$4",
+        "Deck": "dark-ages",
+        "Description": "+1 Card; +2 Actions\n___\nWhen you trash this, put it into your hand.",
+        "Title": "Fortress",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$4",
+        "Deck": "dark-ages",
+        "Description": "+1 Card; +1 Action\nReveal the top card of your deck; you may discard it. If it is an Action card, +1 Action; a Treasure card, +$1; a Victory card, +1 Card.",
+        "Title": "Ironmonger",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$4",
+        "Deck": "dark-ages",
+        "Description": "Gain a Spoils from the Spoils pile. Each other player gains a Ruins.",
+        "Title": "Marauder",
+        "Type": "Action \u2013 Attack \u2013 Looter"
+    },
+    {
+        "Cost": "$4",
+        "Deck": "dark-ages",
+        "Description": "You may play an Action card from your hand twice. Trash it. Gain an Action card costing exactly $1 more than it.",
+        "Title": "Procession",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$4",
+        "Deck": "dark-ages",
+        "Description": "+1 Card; +1 Action\nGain a Rats. Trash a card from your hand other than a Rats (or reveal a hand of all Rats).\n___\nWhen this is trashed, +1 Card.",
+        "Title": "Rats",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$4",
+        "Deck": "dark-ages",
+        "Description": "+$2\nYou may put your deck into your discard pile. Look through your discard pile and put one card from it on top of your deck.",
+        "Title": "Scavenger",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$4",
+        "Deck": "dark-ages",
+        "Description": "+1 Card; +2 Actions\nReveal the top 3 cards of your deck. Put the Actions back on top in any order and discard the rest.",
+        "Title": "Wandering Minstrel",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$5",
+        "Deck": "dark-ages",
+        "Description": "Play this as if it were an Action card in the Supply costing less than it that you choose. This is that card until it leaves play.",
+        "Title": "Band of Misfits",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$5",
+        "Deck": "dark-ages",
+        "Description": "+1 Card; +2 Actions\nGain a Spoils from the Spoils pile.",
+        "Title": "Bandit Camp",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$5",
+        "Deck": "dark-ages",
+        "Description": "Look at the top 3 cards of your deck. Choose one: Put them into your hand; or discard them and +3 Cards.\n___\nWhen you trash this, gain a cheaper card.",
+        "Title": "Catacombs",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$5",
+        "Deck": "dark-ages",
+        "Description": "Choose one: Discard 2 cards; put a card from your hand on top of your deck; or gain a Copper.\nChoose one: +$3; trash your hand; or gain a Duchy.",
+        "Title": "Count",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$5",
+        "Deck": "dark-ages",
+        "Description": "$1; +1 Buy\nWhen you play this, you may play a treasure from your hand twice. If you do, trash that treasure.",
+        "Title": "Counterfeit",
+        "Type": "Treasure"
+    },
+    {
+        "Cost": "$5",
+        "Deck": "dark-ages",
+        "Description": "+2 Cards\nEach other player gains a Ruins. You may play a Cultist from your hand.\n___\nWhen you trash this, +3 Cards.",
+        "Title": "Cultist",
+        "Type": "Action \u2013 Attack \u2013 Looter"
+    },
+    {
+        "Cost": "$5",
+        "Deck": "dark-ages",
+        "Description": "Choose one: Gain a card from the trash costing from $3 to $6, putting it on top of your deck; or trash an Action card from your hand and gain a card costing up to $3 more than it.",
+        "Title": "Graverobber",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$5",
+        "Deck": "dark-ages",
+        "Description": "+1 Card; +1 Action; +$1\nTrash a card from your hand.",
+        "Title": "Junk Dealer",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$5",
+        "Deck": "dark-ages",
+        "Description": "+1 Action\n+$2\nName a card. Reveal the top card of your deck. If it\u2019s the named card, put it into your hand.",
+        "Title": "Mystic",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$5",
+        "Deck": "dark-ages",
+        "Description": "Trash this. Each other player with 5 or more cards in hand reveals his hand and discards a card that you choose. Gain 2 Spoils.",
+        "Title": "Pillage",
+        "Type": "Action \u2013 Attack"
+    },
+    {
+        "Cost": "$5",
+        "Deck": "dark-ages",
+        "Description": "+1 Action\nName a card. Reveal cards from the top of your deck until you reveal a Victory card that is not the named card. Discard the other cards. Trash the Victory card and gain a Victory card costing up to $3 more than it.",
+        "Title": "Rebuild",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$5",
+        "Deck": "dark-ages",
+        "Description": "+$2\nIf there are any cards in the trash costing from $3 to $6, gain one of them. Otherwise, each other player reveals the top 2 cards of his deck, trashes one of them costing from $3 to $6, and discards the rest.",
+        "Title": "Rogue",
+        "Type": "Action \u2013 Attack"
+    },
+    {
+        "Cost": "$6",
+        "Deck": "dark-ages",
+        "Description": "Trash a card from your hand. Gain a card costing up to $5.",
+        "Title": "Altar",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$6",
+        "Deck": "dark-ages",
+        "Description": "+4 Cards\n___\nWhen this is trashed, gain a Duchy or 3 Estates",
+        "Title": "Hunting Grounds",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$2",
+        "Deck": "guilds",
+        "Description": "+1 Action. +1 Buy. Take a Coin token.",
+        "Title": "Candlestick Maker",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$2+",
+        "Deck": "guilds",
+        "Description": "Trash a card from your hand. Gain 2 cards each costing less than it.\n\u2014\nWhen you buy this, you may overpay for it. If you do, gain 2 Action cards each costing the amount you overpaid.",
+        "Title": "Stonemason",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$3+",
+        "Deck": "guilds",
+        "Description": "Name a card. Reveal the top 3 cards of your deck. Trash the matches. Put the rest back on top in any order.\n\u2014\nWhen you buy this, you may overpay for it. For each $1 you overpaid, look at the top card of your deck; trash it, discard it, or put it back.",
+        "Title": "Doctor",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$3+",
+        "Deck": "guilds",
+        "Description": "Worth $1\n\u2014\nWhen you buy this, you may overpay for it. If you do, gain a Silver per $1 you overpaid.",
+        "Title": "Masterpiece",
+        "Type": "Treasure"
+    },
+    {
+        "Cost": "$4",
+        "Deck": "guilds",
+        "Description": "+1 Action. Reveal the top 3 cards of your deck. The player to your left chooses one of them. Discard that card. Put the other cards into your hand.",
+        "Title": "Advisor",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$4+",
+        "Deck": "guilds",
+        "Description": "+1 Card. +1 Action. Reveal the top card of your deck. If it is an Action, play it.\n\u2014\nWhen you buy this, you may overpay for it. For each $1 you overpaid, look through your discard pile and put a card from it on top of your deck.",
+        "Title": "Herald",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$4",
+        "Deck": "guilds",
+        "Description": "+1 Card. +2 Actions. You may discard a Treasure card. If you do, take a Coin token.",
+        "Title": "Plaza",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$4",
+        "Deck": "guilds",
+        "Description": "You may trash a Treasure from your hand. Each other player with 5 or more cards in hand discards a copy of it (or reveals a hand without it). Gain a Treasure card costing up to $3 more than the trashed card, putting it on top of your deck.",
+        "Title": "Taxman",
+        "Type": "Action \u2013 Attack"
+    },
+    {
+        "Cost": "$5",
+        "Deck": "guilds",
+        "Description": "+1 Card. +1 Action. Take a Coin token.\n\u2014\nSetup: Each player takes a Coin token.",
+        "Title": "Baker",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$5",
+        "Deck": "guilds",
+        "Description": "Take 2 Coin tokens. You may trash a card from your hand and then pay any number of Coin tokens. If you did trash a card, gain a card with a cost of up to the cost of the trashed card plus the number of Coin tokens you paid.",
+        "Title": "Butcher",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$5",
+        "Deck": "guilds",
+        "Description": "Name a card. Reveal cards from the top of your deck until you reveal 3 cards that are not the named card. Put those cards into your hand and discard the rest.",
+        "Title": "Journeyman",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$5",
+        "Deck": "guilds",
+        "Description": "+1 Buy. +$1.\n\u2014\nWhile this is in play, when you buy a card, take a Coin token.",
+        "Title": "Merchant Guild",
+        "Type": "Action"
+    },
+    {
+        "Cost": "$5",
+        "Deck": "guilds",
+        "Description": "Gain a Gold. Each other player gains a Curse. Each player who did draws a card.",
+        "Title": "Soothsayer",
+        "Type": "Action \u2013 Attack"
+    }
+]
